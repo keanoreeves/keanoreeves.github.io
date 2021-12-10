@@ -6,6 +6,43 @@ body {
     overflow: hidden;
 }
 
+a {
+    padding-left: 3%;
+    padding-right: 3%;
+    font-family: Arial;
+    font-size: 2em;
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+p {
+    color: ghostwhite;
+    font-size: 1.5em;
+}
+
+h1 {
+    color: ghostwhite;
+    font-size: 2.5em;
+}
+
+#header {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    height: 33%;
+}
+
+#centerBody {
+    margin: auto;
+    padding-top: 1%;
+    width: 26%;
+    height: 100%;
+}
+
 #pixi-content {
+    margin: auto;
     background: #000000;
 }
