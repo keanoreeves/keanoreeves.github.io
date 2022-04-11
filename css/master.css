@@ -78,6 +78,7 @@ h1 {
 
     #pixi-content {
         margin: auto;
+        justify-content: center;
     }
 }
 
