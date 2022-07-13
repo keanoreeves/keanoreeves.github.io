@@ -109,6 +109,15 @@ object-assign
  */
 
 /*!
+ * @pixi/sound - v4.2.0
+ * https://github.com/pixijs/pixi-sound
+ * Compiled Wed, 05 Jan 2022 14:56:00 UTC
+ *
+ * @pixi/sound is licensed under the MIT license.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
  * @pixi/ticker - v6.2.0
  * Compiled Mon, 01 Nov 2021 16:52:10 UTC
  *
